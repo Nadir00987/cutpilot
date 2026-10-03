@@ -1,0 +1,23 @@
+{
+  "id": "documentary-deep",
+  "name": "Deep Documentary",
+  "category": "Documentary",
+  "description": "Serious doc tone: serif titles, slow crossfades.",
+  "kinetic_style": "blur-in",
+  "caption_style": "subtitle-classic",
+  "palette": {
+    "primary": "#D6C9A8",
+    "accent": "#8C7B5B",
+    "bg": "#0A0908",
+    "text": "#EDE6D6"
+  },
+  "fonts": [
+    "Fraunces",
+    "Inter"
+  ],
+  "pacing": "slow",
+  "emoji_on": false,
+  "captions_on": true,
+  "transition": "crossfade",
+  "music_mood": "cinematic"
+}

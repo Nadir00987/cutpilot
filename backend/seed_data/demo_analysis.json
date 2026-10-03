@@ -1,0 +1,1130 @@
+{
+  "version": "1",
+  "project_id": "demo",
+  "source": {
+    "path": "storage/projects/demo/source.mp4",
+    "duration": 35.7,
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
+    "codec": "h264",
+    "audio_channels": 1,
+    "bitrate": 3032034,
+    "orientation": "16:9"
+  },
+  "language": "en",
+  "language_probability": 0.999,
+  "words": [
+    {
+      "word": "So",
+      "start": 0.0,
+      "end": 0.28,
+      "confidence": 0.671,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "you",
+      "start": 0.28,
+      "end": 0.42,
+      "confidence": 0.86,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "want",
+      "start": 0.42,
+      "end": 0.56,
+      "confidence": 0.818,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "to",
+      "start": 0.56,
+      "end": 0.76,
+      "confidence": 0.985,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "edit",
+      "start": 0.76,
+      "end": 0.84,
+      "confidence": 0.991,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "videos",
+      "start": 0.84,
+      "end": 1.16,
+      "confidence": 0.979,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "10",
+      "start": 1.16,
+      "end": 1.44,
+      "confidence": 0.71,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "times",
+      "start": 1.44,
+      "end": 1.76,
+      "confidence": 0.959,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "faster",
+      "start": 1.76,
+      "end": 2.12,
+      "confidence": 0.997,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "without",
+      "start": 2.12,
+      "end": 2.4,
+      "confidence": 0.982,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "losing",
+      "start": 2.4,
+      "end": 2.66,
+      "confidence": 0.993,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "quality.",
+      "start": 2.66,
+      "end": 3.14,
+      "confidence": 0.997,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "Here's",
+      "start": 3.7,
+      "end": 3.96,
+      "confidence": 0.976,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "the",
+      "start": 3.96,
+      "end": 4.04,
+      "confidence": 0.989,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "workflow",
+      "start": 4.04,
+      "end": 4.32,
+      "confidence": 0.985,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "I",
+      "start": 4.32,
+      "end": 4.64,
+      "confidence": 0.98,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "use",
+      "start": 4.64,
+      "end": 4.9,
+      "confidence": 0.97,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "every",
+      "start": 4.9,
+      "end": 5.22,
+      "confidence": 0.99,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "single",
+      "start": 5.22,
+      "end": 5.46,
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "First,",
+      "start": 7.71,
+      "end": 7.99,
+      "confidence": 0.968,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "I",
+      "start": 8.37,
+      "end": 8.47,
+      "confidence": 0.875,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "record",
+      "start": 8.47,
+      "end": 8.71,
+      "confidence": 0.986,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "my",
+      "start": 8.71,
+      "end": 8.91,
+      "confidence": 0.997,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "talking",
+      "start": 8.91,
+      "end": 9.21,
+      "confidence": 0.931,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "head",
+      "start": 9.21,
+      "end": 9.51,
+      "confidence": 0.836,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "video",
+      "start": 9.51,
+      "end": 9.77,
+      "confidence": 0.875,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "in",
+      "start": 9.77,
+      "end": 9.97,
+      "confidence": 0.538,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "one",
+      "start": 9.97,
+      "end": 10.15,
+      "confidence": 0.507,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "take.",
+      "start": 10.15,
+      "end": 10.49,
+      "confidence": 0.967,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "I",
+      "start": 11.01,
+      "end": 11.03,
+      "confidence": 0.991,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "do",
+      "start": 11.03,
+      "end": 11.17,
+      "confidence": 0.992,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "not",
+      "start": 11.17,
+      "end": 11.43,
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "worry",
+      "start": 11.43,
+      "end": 11.63,
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "about",
+      "start": 11.63,
+      "end": 11.85,
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "mistakes,",
+      "start": 11.85,
+      "end": 12.27,
+      "confidence": 0.993,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "because",
+      "start": 12.91,
+      "end": 13.15,
+      "confidence": 0.91,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "the",
+      "start": 13.15,
+      "end": 13.43,
+      "confidence": 0.991,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "AI",
+      "start": 13.43,
+      "end": 13.65,
+      "confidence": 0.961,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "will",
+      "start": 13.65,
+      "end": 13.85,
+      "confidence": 0.999,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "remove",
+      "start": 13.85,
+      "end": 14.05,
+      "confidence": 0.992,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "them",
+      "start": 14.05,
+      "end": 14.27,
+      "confidence": 0.996,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "Then",
+      "start": 16.51,
+      "end": 16.65,
+      "confidence": 0.989,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "the",
+      "start": 16.65,
+      "end": 16.75,
+      "confidence": 0.882,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "analysis",
+      "start": 16.75,
+      "end": 17.07,
+      "confidence": 0.99,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "finds",
+      "start": 17.07,
+      "end": 17.45,
+      "confidence": 0.99,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "every",
+      "start": 17.45,
+      "end": 17.87,
+      "confidence": 0.992,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "silence,",
+      "start": 17.87,
+      "end": 18.31,
+      "confidence": 0.742,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "every",
+      "start": 18.55,
+      "end": 18.83,
+      "confidence": 0.997,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "filler",
+      "start": 18.83,
+      "end": 19.11,
+      "confidence": 0.925,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "word,",
+      "start": 19.11,
+      "end": 19.37,
+      "confidence": 0.994,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "and",
+      "start": 19.45,
+      "end": 19.59,
+      "confidence": 0.918,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "every",
+      "start": 19.59,
+      "end": 19.95,
+      "confidence": 0.997,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "boring",
+      "start": 19.95,
+      "end": 20.21,
+      "confidence": 0.982,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "moment.",
+      "start": 20.21,
+      "end": 20.75,
+      "confidence": 0.997,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "It",
+      "start": 21.21,
+      "end": 21.27,
+      "confidence": 0.887,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "keeps",
+      "start": 21.27,
+      "end": 21.45,
+      "confidence": 0.99,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "only",
+      "start": 21.45,
+      "end": 21.69,
+      "confidence": 0.986,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "the",
+      "start": 21.69,
+      "end": 21.93,
+      "confidence": 0.997,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "strongest",
+      "start": 21.93,
+      "end": 22.21,
+      "confidence": 0.995,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "parts.",
+      "start": 22.21,
+      "end": 22.97,
+      "confidence": 0.892,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "Sorry,",
+      "start": 23.23,
+      "end": 23.47,
+      "confidence": 0.975,
+      "low_confidence": false,
+      "speaker": "SPEAKER_2"
+    },
+    {
+      "word": "it",
+      "start": 23.83,
+      "end": 23.99,
+      "confidence": 0.962,
+      "low_confidence": false,
+      "speaker": "SPEAKER_2"
+    },
+    {
+      "word": "keeps",
+      "start": 23.99,
+      "end": 24.15,
+      "confidence": 0.991,
+      "low_confidence": false,
+      "speaker": "SPEAKER_2"
+    },
+    {
+      "word": "only",
+      "start": 24.15,
+      "end": 24.37,
+      "confidence": 0.995,
+      "low_confidence": false,
+      "speaker": "SPEAKER_2"
+    },
+    {
+      "word": "the",
+      "start": 24.37,
+      "end": 24.57,
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker": "SPEAKER_2"
+    },
+    {
+      "word": "strongest",
+      "start": 24.57,
+      "end": 24.91,
+      "confidence": 0.996,
+      "low_confidence": false,
+      "speaker": "SPEAKER_2"
+    },
+    {
+      "word": "Finally,",
+      "start": 27.52,
+      "end": 27.8,
+      "confidence": 0.987,
+      "low_confidence": false,
+      "speaker": "SPEAKER_2"
+    },
+    {
+      "word": "it",
+      "start": 27.94,
+      "end": 28.04,
+      "confidence": 0.994,
+      "low_confidence": false,
+      "speaker": "SPEAKER_2"
+    },
+    {
+      "word": "adds",
+      "start": 28.04,
+      "end": 28.24,
+      "confidence": 0.99,
+      "low_confidence": false,
+      "speaker": "SPEAKER_2"
+    },
+    {
+      "word": "kinetic",
+      "start": 28.24,
+      "end": 28.56,
+      "confidence": 0.965,
+      "low_confidence": false,
+      "speaker": "SPEAKER_2"
+    },
+    {
+      "word": "captions,",
+      "start": 28.56,
+      "end": 29.04,
+      "confidence": 0.986,
+      "low_confidence": false,
+      "speaker": "SPEAKER_2"
+    },
+    {
+      "word": "a",
+      "start": 29.48,
+      "end": 29.54,
+      "confidence": 0.982,
+      "low_confidence": false,
+      "speaker": "SPEAKER_2"
+    },
+    {
+      "word": "lower",
+      "start": 29.54,
+      "end": 29.74,
+      "confidence": 0.988,
+      "low_confidence": false,
+      "speaker": "SPEAKER_2"
+    },
+    {
+      "word": "third,",
+      "start": 29.74,
+      "end": 30.14,
+      "confidence": 0.842,
+      "low_confidence": false,
+      "speaker": "SPEAKER_2"
+    },
+    {
+      "word": "and",
+      "start": 30.34,
+      "end": 30.44,
+      "confidence": 0.99,
+      "low_confidence": false,
+      "speaker": "SPEAKER_2"
+    },
+    {
+      "word": "background",
+      "start": 30.44,
+      "end": 30.72,
+      "confidence": 0.986,
+      "low_confidence": false,
+      "speaker": "SPEAKER_2"
+    },
+    {
+      "word": "All",
+      "start": 31.22,
+      "end": 31.64,
+      "confidence": 0.179,
+      "low_confidence": true,
+      "speaker": "SPEAKER_2"
+    },
+    {
+      "word": "automatically.",
+      "start": 31.64,
+      "end": 32.1,
+      "confidence": 0.985,
+      "low_confidence": false,
+      "speaker": "SPEAKER_2"
+    },
+    {
+      "word": "That",
+      "start": 32.86,
+      "end": 32.96,
+      "confidence": 0.991,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "is",
+      "start": 32.96,
+      "end": 33.1,
+      "confidence": 0.975,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "how",
+      "start": 33.1,
+      "end": 33.24,
+      "confidence": 0.993,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "a",
+      "start": 33.24,
+      "end": 33.36,
+      "confidence": 0.993,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "20",
+      "start": 33.36,
+      "end": 33.58,
+      "confidence": 0.961,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "minute",
+      "start": 33.58,
+      "end": 33.8,
+      "confidence": 0.593,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "edit",
+      "start": 33.8,
+      "end": 34.12,
+      "confidence": 0.971,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "becomes",
+      "start": 34.12,
+      "end": 34.44,
+      "confidence": 0.979,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "a",
+      "start": 34.44,
+      "end": 34.66,
+      "confidence": 0.99,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "two",
+      "start": 34.66,
+      "end": 34.82,
+      "confidence": 0.637,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "minute",
+      "start": 34.82,
+      "end": 34.98,
+      "confidence": 0.863,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "word": "review.",
+      "start": 34.98,
+      "end": 35.38,
+      "confidence": 0.996,
+      "low_confidence": false,
+      "speaker": "SPEAKER_1"
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.14,
+      "text": "So you want to edit videos 10 times faster without losing quality.",
+      "energy": 87.4
+    },
+    {
+      "start": 3.7,
+      "end": 5.46,
+      "text": "Here's the workflow I use every single day.",
+      "energy": 67.2
+    },
+    {
+      "start": 7.71,
+      "end": 10.49,
+      "text": "First, I record my talking head video in one take.",
+      "energy": 63.2
+    },
+    {
+      "start": 11.01,
+      "end": 14.27,
+      "text": "I do not worry about mistakes, because the AI will remove them later.",
+      "energy": 28.9
+    },
+    {
+      "start": 16.51,
+      "end": 20.75,
+      "text": "Then the analysis finds every silence, every filler word, and every boring moment.",
+      "energy": 100.0
+    },
+    {
+      "start": 21.21,
+      "end": 22.97,
+      "text": "It keeps only the strongest parts.",
+      "energy": 90.9
+    },
+    {
+      "start": 23.23,
+      "end": 24.91,
+      "text": "Sorry, it keeps only the strongest parts.",
+      "energy": 71.6
+    },
+    {
+      "start": 27.52,
+      "end": 30.72,
+      "text": "Finally, it adds kinetic captions, a lower third, and background music.",
+      "energy": 5.8
+    },
+    {
+      "start": 31.22,
+      "end": 32.1,
+      "text": "All automatically.",
+      "energy": 83.1
+    },
+    {
+      "start": 32.86,
+      "end": 35.38,
+      "text": "That is how a 20 minute edit becomes a two minute review.",
+      "energy": 75.4
+    }
+  ],
+  "fillers": [
+    {
+      "start": 5.46,
+      "end": 7.71,
+      "word": "",
+      "type": "long_pause",
+      "action": "keep",
+      "reason": "2.2s pause kept here; removed via silence detection."
+    },
+    {
+      "start": 14.27,
+      "end": 16.51,
+      "word": "",
+      "type": "long_pause",
+      "action": "keep",
+      "reason": "2.2s pause kept here; removed via silence detection."
+    },
+    {
+      "start": 24.91,
+      "end": 27.52,
+      "word": "",
+      "type": "long_pause",
+      "action": "keep",
+      "reason": "2.6s pause kept here; removed via silence detection."
+    }
+  ],
+  "silences": [
+    {
+      "start": 2.888,
+      "end": 3.719,
+      "duration": 0.832,
+      "action": "cut"
+    },
+    {
+      "start": 5.472,
+      "end": 7.722,
+      "duration": 2.251,
+      "action": "cut"
+    },
+    {
+      "start": 14.322,
+      "end": 16.493,
+      "duration": 2.171,
+      "action": "cut"
+    },
+    {
+      "start": 25.343,
+      "end": 27.528,
+      "duration": 2.185,
+      "action": "cut"
+    },
+    {
+      "start": 31.941,
+      "end": 32.837,
+      "duration": 0.897,
+      "action": "cut"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0.0,
+      "end": 35.7,
+      "description": "audio-only analysis (vision unavailable)",
+      "source": "audio-only"
+    }
+  ],
+  "speakers": [
+    {
+      "id": "SPEAKER_1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "SPEAKER_2",
+      "label": "Speaker 2"
+    }
+  ],
+  "diarization_heuristic": true,
+  "energy_profile": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "energy": 87.4
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "energy": 67.2
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "energy": 63.2
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "energy": 28.9
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "energy": 100.0
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "energy": 90.9
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "energy": 71.6
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "energy": 5.8
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "energy": 83.1
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "energy": 75.4
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "energy": 68.2
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "energy": 53.4
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "energy": 43.8
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "energy": 42.5
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "energy": 80.6
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "energy": 75.1
+    },
+    {
+      "start": 32.0,
+      "end": 34.0,
+      "energy": 83.1
+    }
+  ],
+  "highlights": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "energy": 87.4,
+      "reason": "High energy (87.4) \u2014 loudness + speech rate spike."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "energy": 100.0,
+      "reason": "High energy (100.0) \u2014 loudness + speech rate spike."
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "energy": 90.9,
+      "reason": "High energy (90.9) \u2014 loudness + speech rate spike."
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "energy": 83.1,
+      "reason": "High energy (83.1) \u2014 loudness + speech rate spike."
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "energy": 75.4,
+      "reason": "High energy (75.4) \u2014 loudness + speech rate spike."
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "energy": 80.6,
+      "reason": "High energy (80.6) \u2014 loudness + speech rate spike."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "energy": 75.1,
+      "reason": "High energy (75.1) \u2014 loudness + speech rate spike."
+    },
+    {
+      "start": 32.0,
+      "end": 34.0,
+      "energy": 83.1,
+      "reason": "High energy (83.1) \u2014 loudness + speech rate spike."
+    }
+  ],
+  "hook": {
+    "start": 0.5,
+    "end": 5.5,
+    "text": "to edit videos 10 times faster without losing quality. Here's the workflow I use every single",
+    "reason": "Highest energy_density (0.7) \u00d7 keyword_score (6.50) within first 30% of the video; hooks the viewer early."
+  },
+  "keywords": [
+    {
+      "phrase": "every",
+      "score": 4.0,
+      "start": 4.9,
+      "end": 5.22
+    },
+    {
+      "phrase": "edit",
+      "score": 2.0,
+      "start": 0.76,
+      "end": 0.84
+    },
+    {
+      "phrase": "keeps",
+      "score": 2.0,
+      "start": 21.27,
+      "end": 21.45
+    },
+    {
+      "phrase": "strongest",
+      "score": 2.0,
+      "start": 21.93,
+      "end": 22.21
+    },
+    {
+      "phrase": "minute",
+      "score": 2.0,
+      "start": 33.58,
+      "end": 33.8
+    }
+  ],
+  "audio_qc": {
+    "noise_floor_db": -180.0,
+    "integrated_lufs": -27.3,
+    "max_volume_db": -5.2,
+    "clipping": false,
+    "clipping_spans": [],
+    "volume_consistent": true,
+    "flags": [
+      "too_quiet"
+    ],
+    "needs_enhancement": true
+  },
+  "summary": "Here's the workflow I use every single day. Then the analysis finds every silence, every filler word, and every boring moment. It keeps only the strongest parts. Sorry, it keeps only the strongest parts. That is how a 20 minute edit becomes a two minute review.",
+  "suggested_title": "Every Edit Keeps \u2014 Explained",
+  "thumbnail_texts": [
+    "EVERY",
+    "EDIT",
+    "KEEPS"
+  ],
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "So You Want To Edit"
+    },
+    {
+      "start": 8.93,
+      "title": "Head Video In One Take"
+    },
+    {
+      "start": 17.85,
+      "title": "Silence, Every Filler Word, And"
+    },
+    {
+      "start": 26.78,
+      "title": "Finally, It Adds Kinetic Captions"
+    }
+  ],
+  "metadata": {
+    "title": "Every Edit Keeps \u2014 Explained",
+    "description": "Here's the workflow I use every single day. Then the analysis finds every silence, every filler word, and every boring moment. It keeps only the strongest parts. Sorry, it keeps only the strongest parts. That is how a 20 minute edit becomes a two minute review.\n\n#every #edit #keeps #strongest #minute",
+    "hashtags": [
+      "#every",
+      "#edit",
+      "#keeps",
+      "#strongest",
+      "#minute"
+    ],
+    "tags": {
+      "youtube": [
+        "every",
+        "edit",
+        "keeps",
+        "strongest",
+        "minute"
+      ],
+      "tiktok": [
+        "every",
+        "edit",
+        "keeps",
+        "strongest",
+        "minute"
+      ],
+      "instagram": [
+        "every",
+        "edit",
+        "keeps",
+        "strongest",
+        "minute"
+      ]
+    }
+  },
+  "notes": [
+    "Dropped 4 hallucinated word(s) on near-silent spans (< -40 dBFS).",
+    "Vision endpoint unavailable \u2014 scene descriptions are audio-only.",
+    "Speaker labels are HEURISTIC (energy + spectral-centroid turn detection, no neural diarization model). Reliable for clean 1-2 speaker talking-head audio; may mislabel overlapping speech or background noise.",
+    "demo seed: real faster-whisper transcription of TTS narration (testsrc2 video)"
+  ]
+}

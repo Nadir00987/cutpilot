@@ -1,0 +1,23 @@
+{
+  "id": "vlog-cinematic",
+  "name": "Cinematic Vlog",
+  "category": "Vlog",
+  "description": "Filmic letterbox feel with elegant serif titles.",
+  "kinetic_style": "blur-in",
+  "caption_style": "elegant",
+  "palette": {
+    "primary": "#E8DCC4",
+    "accent": "#C9A227",
+    "bg": "#0A0A0A",
+    "text": "#F5F1E8"
+  },
+  "fonts": [
+    "Playfair Display",
+    "Inter"
+  ],
+  "pacing": "slow",
+  "emoji_on": false,
+  "captions_on": true,
+  "transition": "crossfade",
+  "music_mood": "cinematic"
+}

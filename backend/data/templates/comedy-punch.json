@@ -1,0 +1,23 @@
+{
+  "id": "comedy-punch",
+  "name": "Punchline Comedy",
+  "category": "Comedy",
+  "description": "Meme-caption comedy: impact text, emoji reactions.",
+  "kinetic_style": "pop-in",
+  "caption_style": "sticker",
+  "palette": {
+    "primary": "#FFD500",
+    "accent": "#FF2E63",
+    "bg": "#101010",
+    "text": "#FFFFFF"
+  },
+  "fonts": [
+    "Archivo Black",
+    "Inter"
+  ],
+  "pacing": "fast",
+  "emoji_on": true,
+  "captions_on": true,
+  "transition": "zoom-cut",
+  "music_mood": "energetic"
+}

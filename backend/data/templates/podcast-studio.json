@@ -1,0 +1,23 @@
+{
+  "id": "podcast-studio",
+  "name": "Studio Podcast",
+  "category": "Podcast",
+  "description": "Two-speaker podcast cards with name lower-thirds.",
+  "kinetic_style": "slide-up",
+  "caption_style": "subtitle-classic",
+  "palette": {
+    "primary": "#7C5CFF",
+    "accent": "#00E5CC",
+    "bg": "#101018",
+    "text": "#FFFFFF"
+  },
+  "fonts": [
+    "Space Grotesk",
+    "Inter"
+  ],
+  "pacing": "medium",
+  "emoji_on": false,
+  "captions_on": true,
+  "transition": "crossfade",
+  "music_mood": "calm"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "realestate-luxe",
+  "name": "Luxe Real Estate",
+  "category": "Real Estate",
+  "description": "Premium property tour: gold accents, slow reveals.",
+  "kinetic_style": "slide-up",
+  "caption_style": "elegant",
+  "palette": {
+    "primary": "#C9A227",
+    "accent": "#FFFFFF",
+    "bg": "#0B0B0D",
+    "text": "#FFFFFF"
+  },
+  "fonts": [
+    "Playfair Display",
+    "Inter"
+  ],
+  "pacing": "slow",
+  "emoji_on": false,
+  "captions_on": false,
+  "transition": "dip-black",
+  "music_mood": "cinematic"
+}

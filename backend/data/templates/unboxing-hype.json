@@ -1,0 +1,23 @@
+{
+  "id": "unboxing-hype",
+  "name": "Unboxing Hype",
+  "category": "Unboxing",
+  "description": "Playful reveal style: sticker captions, bounce-ins.",
+  "kinetic_style": "bounce",
+  "caption_style": "sticker",
+  "palette": {
+    "primary": "#8B5CF6",
+    "accent": "#F472B6",
+    "bg": "#0E0A14",
+    "text": "#FFFFFF"
+  },
+  "fonts": [
+    "Fredoka",
+    "Inter"
+  ],
+  "pacing": "fast",
+  "emoji_on": true,
+  "captions_on": true,
+  "transition": "zoom-cut",
+  "music_mood": "energetic"
+}

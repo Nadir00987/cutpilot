@@ -1,0 +1,23 @@
+{
+  "id": "tech-review",
+  "name": "Tech Review",
+  "category": "Tech Review",
+  "description": "Neon HUD style with spec popups and stat cards.",
+  "kinetic_style": "pop-in",
+  "caption_style": "neon",
+  "palette": {
+    "primary": "#00E5FF",
+    "accent": "#7C5CFF",
+    "bg": "#05070F",
+    "text": "#EAF6FF"
+  },
+  "fonts": [
+    "Space Grotesk",
+    "JetBrains Mono"
+  ],
+  "pacing": "medium",
+  "emoji_on": true,
+  "captions_on": true,
+  "transition": "whip-pan",
+  "music_mood": "corporate"
+}

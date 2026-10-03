@@ -1,0 +1,23 @@
+{
+  "id": "vlog-clean",
+  "name": "Clean Vlog",
+  "category": "Vlog",
+  "description": "Bright everyday vlog look: airy captions, soft pop-ins.",
+  "kinetic_style": "pop-in",
+  "caption_style": "minimal",
+  "palette": {
+    "primary": "#FF6B35",
+    "accent": "#FFD166",
+    "bg": "#0B0E14",
+    "text": "#FFFFFF"
+  },
+  "fonts": [
+    "Inter",
+    "Inter"
+  ],
+  "pacing": "medium",
+  "emoji_on": true,
+  "captions_on": true,
+  "transition": "zoom-cut",
+  "music_mood": "energetic"
+}

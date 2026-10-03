@@ -1,0 +1,23 @@
+{
+  "id": "interview-prime",
+  "name": "Prime Interview",
+  "category": "Interview",
+  "description": "Broadcast interview: name straps, quote cards.",
+  "kinetic_style": "slide-up",
+  "caption_style": "subtitle-classic",
+  "palette": {
+    "primary": "#EF4444",
+    "accent": "#FFFFFF",
+    "bg": "#0D0D10",
+    "text": "#FFFFFF"
+  },
+  "fonts": [
+    "Inter",
+    "Inter"
+  ],
+  "pacing": "medium",
+  "emoji_on": false,
+  "captions_on": true,
+  "transition": "crossfade",
+  "music_mood": "corporate"
+}

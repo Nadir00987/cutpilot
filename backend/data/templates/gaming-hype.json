@@ -1,0 +1,23 @@
+{
+  "id": "gaming-hype",
+  "name": "Hype Gaming",
+  "category": "Gaming",
+  "description": "RGB gamer energy: glitch text, kill-feed callouts.",
+  "kinetic_style": "glitch",
+  "caption_style": "neon",
+  "palette": {
+    "primary": "#A855F7",
+    "accent": "#22D3EE",
+    "bg": "#0A0612",
+    "text": "#FFFFFF"
+  },
+  "fonts": [
+    "Chakra Petch",
+    "Inter"
+  ],
+  "pacing": "fast",
+  "emoji_on": true,
+  "captions_on": true,
+  "transition": "glitch-cut",
+  "music_mood": "energetic"
+}

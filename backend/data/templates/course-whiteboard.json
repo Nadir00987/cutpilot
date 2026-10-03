@@ -1,0 +1,23 @@
+{
+  "id": "course-whiteboard",
+  "name": "Whiteboard Course",
+  "category": "Course",
+  "description": "Hand-drawn feel with mono captions and sketch callouts.",
+  "kinetic_style": "typewriter",
+  "caption_style": "mono",
+  "palette": {
+    "primary": "#111111",
+    "accent": "#F59E0B",
+    "bg": "#FFFBEB",
+    "text": "#1C1917"
+  },
+  "fonts": [
+    "Caveat",
+    "IBM Plex Mono"
+  ],
+  "pacing": "medium",
+  "emoji_on": true,
+  "captions_on": true,
+  "transition": "slide",
+  "music_mood": "corporate"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "fitness-beast",
+  "name": "Beast Mode Fitness",
+  "category": "Fitness",
+  "description": "Aggressive gym edits: glitch cuts, huge condensed type.",
+  "kinetic_style": "glitch",
+  "caption_style": "bold-pop",
+  "palette": {
+    "primary": "#FF3D00",
+    "accent": "#FFD500",
+    "bg": "#0A0A0A",
+    "text": "#FFFFFF"
+  },
+  "fonts": [
+    "Anton",
+    "Inter"
+  ],
+  "pacing": "fast",
+  "emoji_on": true,
+  "captions_on": true,
+  "transition": "glitch-cut",
+  "music_mood": "energetic"
+}

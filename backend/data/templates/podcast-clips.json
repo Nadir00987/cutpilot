@@ -1,0 +1,23 @@
+{
+  "id": "podcast-clips",
+  "name": "Viral Podcast Clips",
+  "category": "Podcast",
+  "description": "Punchy short-form podcast clips, big karaoke words.",
+  "kinetic_style": "karaoke-highlight",
+  "caption_style": "hormozi",
+  "palette": {
+    "primary": "#FFD500",
+    "accent": "#FF2E63",
+    "bg": "#000000",
+    "text": "#FFFFFF"
+  },
+  "fonts": [
+    "Archivo Black",
+    "Inter"
+  ],
+  "pacing": "fast",
+  "emoji_on": true,
+  "captions_on": true,
+  "transition": "zoom-cut",
+  "music_mood": "energetic"
+}

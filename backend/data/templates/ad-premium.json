@@ -1,0 +1,23 @@
+{
+  "id": "ad-premium",
+  "name": "Premium Ad",
+  "category": "Ad/UGC",
+  "description": "High-end product ad: minimal type, slow reveals.",
+  "kinetic_style": "blur-in",
+  "caption_style": "elegant",
+  "palette": {
+    "primary": "#FFFFFF",
+    "accent": "#C9A227",
+    "bg": "#0A0A0A",
+    "text": "#FFFFFF"
+  },
+  "fonts": [
+    "Playfair Display",
+    "Inter"
+  ],
+  "pacing": "slow",
+  "emoji_on": false,
+  "captions_on": false,
+  "transition": "dip-black",
+  "music_mood": "cinematic"
+}

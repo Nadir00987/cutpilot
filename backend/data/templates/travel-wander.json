@@ -1,0 +1,23 @@
+{
+  "id": "travel-wander",
+  "name": "Wanderlust Travel",
+  "category": "Travel",
+  "description": "Dreamy travel film: elegant titles, slow zooms.",
+  "kinetic_style": "blur-in",
+  "caption_style": "elegant",
+  "palette": {
+    "primary": "#38BDF8",
+    "accent": "#F472B6",
+    "bg": "#060A14",
+    "text": "#F0F9FF"
+  },
+  "fonts": [
+    "Playfair Display",
+    "Inter"
+  ],
+  "pacing": "slow",
+  "emoji_on": false,
+  "captions_on": true,
+  "transition": "crossfade",
+  "music_mood": "cinematic"
+}

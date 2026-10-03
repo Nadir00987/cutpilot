@@ -1,0 +1,23 @@
+{
+  "id": "webinar-pro",
+  "name": "Webinar Pro",
+  "category": "Webinar",
+  "description": "Clean corporate webinar: agenda callouts, CTAs.",
+  "kinetic_style": "pop-in",
+  "caption_style": "box",
+  "palette": {
+    "primary": "#2563EB",
+    "accent": "#7C5CFF",
+    "bg": "#0B1020",
+    "text": "#F8FAFC"
+  },
+  "fonts": [
+    "Inter",
+    "Inter"
+  ],
+  "pacing": "medium",
+  "emoji_on": false,
+  "captions_on": true,
+  "transition": "slide",
+  "music_mood": "corporate"
+}

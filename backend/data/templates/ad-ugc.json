@@ -1,0 +1,23 @@
+{
+  "id": "ad-ugc",
+  "name": "UGC Ad",
+  "category": "Ad/UGC",
+  "description": "Native phone-shot ad energy: stickers, bouncy text.",
+  "kinetic_style": "bounce",
+  "caption_style": "sticker",
+  "palette": {
+    "primary": "#FF2E63",
+    "accent": "#FFD500",
+    "bg": "#000000",
+    "text": "#FFFFFF"
+  },
+  "fonts": [
+    "Archivo Black",
+    "Inter"
+  ],
+  "pacing": "fast",
+  "emoji_on": true,
+  "captions_on": true,
+  "transition": "zoom-cut",
+  "music_mood": "energetic"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "motivational-fire",
+  "name": "Fire Motivational",
+  "category": "Motivational",
+  "description": "High-impact motivational: huge condensed type, punch zooms.",
+  "kinetic_style": "wave",
+  "caption_style": "bold-pop",
+  "palette": {
+    "primary": "#FF6B00",
+    "accent": "#FFD500",
+    "bg": "#000000",
+    "text": "#FFFFFF"
+  },
+  "fonts": [
+    "Anton",
+    "Inter"
+  ],
+  "pacing": "fast",
+  "emoji_on": true,
+  "captions_on": true,
+  "transition": "zoom-cut",
+  "music_mood": "cinematic"
+}

@@ -1,0 +1,61 @@
+/*
+ * CutPilot AI — Design tokens
+ * Design system: "Dark Mode (OLED)" — cinema dark + play red
+ * (ui-ux-pro-max: dark-mode premium video studio query)
+ * Typography: Space Grotesk (display) + Inter (body)
+ * Motion: stagger lists 300–450ms ease-out; all keyframes disabled under
+ * prefers-reduced-motion (see globals.css).
+ *
+ * Contrast (ux-ui-agent contrast.py, AA required):
+ *  --fg (#F8FAFC) on --bg (#000000)        = 20.07:1 PASS AAA
+ *  --muted-fg (#94A3B8) on --bg (#000000)   =  8.19:1 PASS AAA
+ *  #FFFFFF on --accent (#E11D48)            =  4.70:1 PASS AA
+ */
+:root {
+  /* surfaces */
+  --bg: #000000;
+  --card: #0c0c0d;
+  --surface: #131316;
+  --muted-bg: #181818;
+  --border: #232329;
+  --border-strong: #34343c;
+
+  /* text */
+  --fg: #f8fafc;
+  --muted-fg: #94a3b8;
+  --faint-fg: #64748b;
+
+  /* brand */
+  --accent: #e11d48;        /* play red — primary CTA */
+  --accent-deep: #9f1239;
+  --accent-soft: rgba(225, 29, 72, 0.14);
+  --secondary: #6366f1;     /* royal indigo — info / links */
+  --secondary-soft: rgba(99, 102, 241, 0.14);
+  --brand-gradient: linear-gradient(135deg, #e11d48 0%, #f97316 100%);
+
+  /* status */
+  --success: #22c55e;
+  --warning: #f59e0b;
+  --destructive: #ef4444;
+  --info: #38bdf8;
+
+  /* timeline tracks */
+  --track-video: #e11d48;
+  --track-broll: #f59e0b;
+  --track-text: #a78bfa;
+  --track-captions: #38bdf8;
+  --track-audio: #22c55e;
+  --track-music: #f472b6;
+  --track-effects: #94a3b8;
+
+  /* type */
+  --font-display: "Space Grotesk", "Inter", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, sans-serif;
+
+  /* radii / motion */
+  --radius: 12px;
+  --radius-sm: 8px;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --t-fast: 150ms;
+  --t-med: 300ms;
+}

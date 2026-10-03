@@ -1,0 +1,23 @@
+{
+  "id": "course-pro",
+  "name": "Pro Course",
+  "category": "Course",
+  "description": "Calm educational style: clear callouts, breathing room.",
+  "kinetic_style": "slide-up",
+  "caption_style": "box",
+  "palette": {
+    "primary": "#2563EB",
+    "accent": "#38BDF8",
+    "bg": "#0F172A",
+    "text": "#F8FAFC"
+  },
+  "fonts": [
+    "Inter",
+    "Inter"
+  ],
+  "pacing": "slow",
+  "emoji_on": false,
+  "captions_on": true,
+  "transition": "crossfade",
+  "music_mood": "calm"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cooking-tasty",
+  "name": "Tasty Cooking",
+  "category": "Cooking",
+  "description": "Warm appetizing overlays: ingredient callouts.",
+  "kinetic_style": "bounce",
+  "caption_style": "sticker",
+  "palette": {
+    "primary": "#F97316",
+    "accent": "#84CC16",
+    "bg": "#1A0F08",
+    "text": "#FFF7ED"
+  },
+  "fonts": [
+    "Fredoka",
+    "Inter"
+  ],
+  "pacing": "medium",
+  "emoji_on": true,
+  "captions_on": true,
+  "transition": "zoom-cut",
+  "music_mood": "energetic"
+}

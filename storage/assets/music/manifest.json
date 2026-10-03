@@ -1,0 +1,194 @@
+[
+  {
+    "file": "energetic_01.mp3",
+    "category": "energetic",
+    "bpm": 124,
+    "root_midi": 45,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "energetic_02.mp3",
+    "category": "energetic",
+    "bpm": 132,
+    "root_midi": 43,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "energetic_03.mp3",
+    "category": "energetic",
+    "bpm": 132,
+    "root_midi": 47,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "energetic_04.mp3",
+    "category": "energetic",
+    "bpm": 132,
+    "root_midi": 41,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "energetic_05.mp3",
+    "category": "energetic",
+    "bpm": 132,
+    "root_midi": 48,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "energetic_06.mp3",
+    "category": "energetic",
+    "bpm": 128,
+    "root_midi": 44,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "calm_01.mp3",
+    "category": "calm",
+    "bpm": 76,
+    "root_midi": 45,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "calm_02.mp3",
+    "category": "calm",
+    "bpm": 84,
+    "root_midi": 43,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "calm_03.mp3",
+    "category": "calm",
+    "bpm": 80,
+    "root_midi": 47,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "calm_04.mp3",
+    "category": "calm",
+    "bpm": 80,
+    "root_midi": 41,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "calm_05.mp3",
+    "category": "calm",
+    "bpm": 80,
+    "root_midi": 48,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "calm_06.mp3",
+    "category": "calm",
+    "bpm": 80,
+    "root_midi": 44,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "cinematic_01.mp3",
+    "category": "cinematic",
+    "bpm": 96,
+    "root_midi": 45,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "cinematic_02.mp3",
+    "category": "cinematic",
+    "bpm": 88,
+    "root_midi": 43,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "cinematic_03.mp3",
+    "category": "cinematic",
+    "bpm": 88,
+    "root_midi": 47,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "cinematic_04.mp3",
+    "category": "cinematic",
+    "bpm": 92,
+    "root_midi": 41,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "cinematic_05.mp3",
+    "category": "cinematic",
+    "bpm": 96,
+    "root_midi": 48,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "cinematic_06.mp3",
+    "category": "cinematic",
+    "bpm": 96,
+    "root_midi": 44,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "corporate_01.mp3",
+    "category": "corporate",
+    "bpm": 108,
+    "root_midi": 45,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "corporate_02.mp3",
+    "category": "corporate",
+    "bpm": 108,
+    "root_midi": 43,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "corporate_03.mp3",
+    "category": "corporate",
+    "bpm": 112,
+    "root_midi": 47,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "corporate_04.mp3",
+    "category": "corporate",
+    "bpm": 112,
+    "root_midi": 41,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "corporate_05.mp3",
+    "category": "corporate",
+    "bpm": 116,
+    "root_midi": 48,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  },
+  {
+    "file": "corporate_06.mp3",
+    "category": "corporate",
+    "bpm": 108,
+    "root_midi": 44,
+    "duration_sec": 30.0,
+    "license": "original procedural composition \u2014 bundled royalty-free"
+  }
+]

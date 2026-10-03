@@ -1,0 +1,127 @@
+[
+  {
+    "id": "vlog-clean",
+    "name": "Clean Vlog",
+    "category": "Vlog"
+  },
+  {
+    "id": "vlog-cinematic",
+    "name": "Cinematic Vlog",
+    "category": "Vlog"
+  },
+  {
+    "id": "podcast-studio",
+    "name": "Studio Podcast",
+    "category": "Podcast"
+  },
+  {
+    "id": "podcast-clips",
+    "name": "Viral Podcast Clips",
+    "category": "Podcast"
+  },
+  {
+    "id": "course-pro",
+    "name": "Pro Course",
+    "category": "Course"
+  },
+  {
+    "id": "course-whiteboard",
+    "name": "Whiteboard Course",
+    "category": "Course"
+  },
+  {
+    "id": "ad-ugc",
+    "name": "UGC Ad",
+    "category": "Ad/UGC"
+  },
+  {
+    "id": "ad-premium",
+    "name": "Premium Ad",
+    "category": "Ad/UGC"
+  },
+  {
+    "id": "testimonial-trust",
+    "name": "Trust Testimonial",
+    "category": "Testimonial"
+  },
+  {
+    "id": "fitness-beast",
+    "name": "Beast Mode Fitness",
+    "category": "Fitness"
+  },
+  {
+    "id": "fitness-wellness",
+    "name": "Wellness Flow",
+    "category": "Fitness"
+  },
+  {
+    "id": "tech-review",
+    "name": "Tech Review",
+    "category": "Tech Review"
+  },
+  {
+    "id": "cooking-tasty",
+    "name": "Tasty Cooking",
+    "category": "Cooking"
+  },
+  {
+    "id": "travel-wander",
+    "name": "Wanderlust Travel",
+    "category": "Travel"
+  },
+  {
+    "id": "finance-smart",
+    "name": "Smart Finance",
+    "category": "Finance"
+  },
+  {
+    "id": "gaming-hype",
+    "name": "Hype Gaming",
+    "category": "Gaming"
+  },
+  {
+    "id": "beauty-glow",
+    "name": "Glow Beauty",
+    "category": "Beauty"
+  },
+  {
+    "id": "realestate-luxe",
+    "name": "Luxe Real Estate",
+    "category": "Real Estate"
+  },
+  {
+    "id": "interview-prime",
+    "name": "Prime Interview",
+    "category": "Interview"
+  },
+  {
+    "id": "webinar-pro",
+    "name": "Webinar Pro",
+    "category": "Webinar"
+  },
+  {
+    "id": "motivational-fire",
+    "name": "Fire Motivational",
+    "category": "Motivational"
+  },
+  {
+    "id": "unboxing-hype",
+    "name": "Unboxing Hype",
+    "category": "Unboxing"
+  },
+  {
+    "id": "news-desk",
+    "name": "News Desk",
+    "category": "News"
+  },
+  {
+    "id": "comedy-punch",
+    "name": "Punchline Comedy",
+    "category": "Comedy"
+  },
+  {
+    "id": "documentary-deep",
+    "name": "Deep Documentary",
+    "category": "Documentary"
+  }
+]

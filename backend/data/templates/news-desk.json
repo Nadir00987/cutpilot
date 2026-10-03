@@ -1,0 +1,23 @@
+{
+  "id": "news-desk",
+  "name": "News Desk",
+  "category": "News",
+  "description": "Broadcast news: red lower-thirds, ticker captions.",
+  "kinetic_style": "slide-up",
+  "caption_style": "box",
+  "palette": {
+    "primary": "#DC2626",
+    "accent": "#FFFFFF",
+    "bg": "#0A0A0C",
+    "text": "#FFFFFF"
+  },
+  "fonts": [
+    "Archivo",
+    "Inter"
+  ],
+  "pacing": "medium",
+  "emoji_on": false,
+  "captions_on": true,
+  "transition": "whip-pan",
+  "music_mood": "corporate"
+}

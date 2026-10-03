@@ -1,0 +1,24 @@
+# CutPilot AI backend dependencies
+# Worker B installs these + faster-whisper into backend/.venv
+
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+pydantic
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt
+python-multipart
+celery[redis]
+redis
+httpx
+Pillow
+numpy
+faster-whisper
+stripe
+yt-dlp
+email-validator
+# Postgres driver for docker-compose (SQLite is the local default)
+psycopg2-binary

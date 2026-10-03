@@ -1,0 +1,23 @@
+{
+  "id": "finance-smart",
+  "name": "Smart Finance",
+  "category": "Finance",
+  "description": "Crisp fintech look: stat popups, chart callouts.",
+  "kinetic_style": "slide-up",
+  "caption_style": "box",
+  "palette": {
+    "primary": "#22C55E",
+    "accent": "#A3E635",
+    "bg": "#07120B",
+    "text": "#F0FDF4"
+  },
+  "fonts": [
+    "Inter",
+    "JetBrains Mono"
+  ],
+  "pacing": "medium",
+  "emoji_on": false,
+  "captions_on": true,
+  "transition": "slide",
+  "music_mood": "corporate"
+}

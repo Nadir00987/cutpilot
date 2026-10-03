@@ -1,0 +1,23 @@
+{
+  "id": "beauty-glow",
+  "name": "Glow Beauty",
+  "category": "Beauty",
+  "description": "Soft glam: blush gradients, delicate serif titles.",
+  "kinetic_style": "blur-in",
+  "caption_style": "elegant",
+  "palette": {
+    "primary": "#F9A8D4",
+    "accent": "#FDE68A",
+    "bg": "#14090E",
+    "text": "#FFF1F2"
+  },
+  "fonts": [
+    "Fraunces",
+    "Inter"
+  ],
+  "pacing": "medium",
+  "emoji_on": false,
+  "captions_on": true,
+  "transition": "crossfade",
+  "music_mood": "calm"
+}

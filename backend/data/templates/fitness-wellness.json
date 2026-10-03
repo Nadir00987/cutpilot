@@ -1,0 +1,23 @@
+{
+  "id": "fitness-wellness",
+  "name": "Wellness Flow",
+  "category": "Fitness",
+  "description": "Soft yoga/wellness pacing with gentle fades.",
+  "kinetic_style": "blur-in",
+  "caption_style": "minimal",
+  "palette": {
+    "primary": "#5EEAD4",
+    "accent": "#A7F3D0",
+    "bg": "#0B1512",
+    "text": "#F0FDF4"
+  },
+  "fonts": [
+    "Fraunces",
+    "Inter"
+  ],
+  "pacing": "slow",
+  "emoji_on": false,
+  "captions_on": true,
+  "transition": "crossfade",
+  "music_mood": "calm"
+}

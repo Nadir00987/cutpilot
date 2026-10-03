@@ -1,0 +1,573 @@
+{
+  "version": "1",
+  "project_id": "demo",
+  "source_duration": 35.7,
+  "timebase": "source",
+  "cuts": [
+    {
+      "start": 8.11,
+      "end": 12.79,
+      "reason": "Kept speech after removing: Silence 2.171s removed (threshold exceeded)."
+    },
+    {
+      "start": 18.43,
+      "end": 25.343,
+      "reason": "Kept speech after removing: Silence 2.185s removed (threshold exceeded)."
+    },
+    {
+      "start": 29.16,
+      "end": 31.1,
+      "reason": "Kept speech after removing: Silence 0.897s removed (threshold exceeded)."
+    }
+  ],
+  "graphics": [
+    {
+      "type": "lower_third",
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Every Edit Keeps \u2014 Explained",
+      "style": "lower_third_default",
+      "position": "bottom",
+      "reason": "Name/title card on first appearance of Speaker 1.",
+      "editable": true,
+      "x": 0.08,
+      "y": 0.82
+    },
+    {
+      "type": "emoji_reaction",
+      "start": 0.0,
+      "end": 1.2,
+      "text": "\ud83d\udd25",
+      "style": "pop_word",
+      "position": "corner",
+      "reason": "Energy spike (87.4) \u2014 context-matched reaction, toggleable.",
+      "editable": true,
+      "x": 0.88,
+      "y": 0.12
+    },
+    {
+      "type": "kinetic_headline",
+      "start": 0.76,
+      "end": 0.84,
+      "text": "EDIT",
+      "style": "pop_word",
+      "position": "middle",
+      "reason": "Top keyword (score 2.0) \u2014 karaoke-style emphasis timed to speech.",
+      "editable": true,
+      "x": 0.5,
+      "y": 0.42
+    },
+    {
+      "type": "punch_in",
+      "start": 0.76,
+      "end": 1.36,
+      "text": "zoom 115%",
+      "style": "zoom_115",
+      "position": "full",
+      "reason": "Punch-in 115% on emphasis word \u2014 draws the eye to the key point.",
+      "editable": false,
+      "x": 0.5,
+      "y": 0.5
+    },
+    {
+      "type": "stat_popup",
+      "start": 1.16,
+      "end": 2.66,
+      "text": "10",
+      "style": "pop_word",
+      "position": "middle",
+      "reason": "Number '10' spoken \u2014 stat popup reinforces the figure.",
+      "editable": true,
+      "x": 0.5,
+      "y": 0.35
+    },
+    {
+      "type": "kinetic_headline",
+      "start": 4.9,
+      "end": 5.22,
+      "text": "EVERY",
+      "style": "pop_word",
+      "position": "middle",
+      "reason": "Top keyword (score 4.0) \u2014 karaoke-style emphasis timed to speech.",
+      "editable": true,
+      "x": 0.5,
+      "y": 0.42
+    },
+    {
+      "type": "emoji_reaction",
+      "start": 8.0,
+      "end": 9.2,
+      "text": "\ud83d\udd25",
+      "style": "pop_word",
+      "position": "corner",
+      "reason": "Energy spike (100.0) \u2014 context-matched reaction, toggleable.",
+      "editable": true,
+      "x": 0.88,
+      "y": 0.12
+    },
+    {
+      "type": "progress_bar",
+      "start": 8.11,
+      "end": 31.1,
+      "text": "",
+      "style": "#7C3AED",
+      "position": "top",
+      "reason": "Brand-color progress bar across the whole edit.",
+      "editable": false,
+      "x": 0.5,
+      "y": 0.02
+    },
+    {
+      "type": "emoji_reaction",
+      "start": 10.0,
+      "end": 11.2,
+      "text": "\ud83d\udd25",
+      "style": "pop_word",
+      "position": "corner",
+      "reason": "Energy spike (90.9) \u2014 context-matched reaction, toggleable.",
+      "editable": true,
+      "x": 0.88,
+      "y": 0.12
+    },
+    {
+      "type": "emoji_reaction",
+      "start": 16.0,
+      "end": 17.2,
+      "text": "\u26a1",
+      "style": "pop_word",
+      "position": "corner",
+      "reason": "Energy spike (83.1) \u2014 context-matched reaction, toggleable.",
+      "editable": true,
+      "x": 0.88,
+      "y": 0.12
+    },
+    {
+      "type": "quote_card",
+      "start": 16.51,
+      "end": 19.51,
+      "text": "Then the analysis finds every silence, every filler word, and every boring moment.",
+      "style": "pop_word",
+      "position": "middle",
+      "reason": "Highest-energy sentence (energy 100.0) \u2014 quote card for shareability.",
+      "editable": true,
+      "x": 0.5,
+      "y": 0.5
+    },
+    {
+      "type": "kinetic_headline",
+      "start": 21.27,
+      "end": 21.45,
+      "text": "KEEPS",
+      "style": "pop_word",
+      "position": "middle",
+      "reason": "Top keyword (score 2.0) \u2014 karaoke-style emphasis timed to speech.",
+      "editable": true,
+      "x": 0.5,
+      "y": 0.42
+    },
+    {
+      "type": "punch_in",
+      "start": 21.27,
+      "end": 21.87,
+      "text": "zoom 115%",
+      "style": "zoom_115",
+      "position": "full",
+      "reason": "Punch-in 115% on emphasis word \u2014 draws the eye to the key point.",
+      "editable": false,
+      "x": 0.5,
+      "y": 0.5
+    },
+    {
+      "type": "kinetic_headline",
+      "start": 21.93,
+      "end": 22.21,
+      "text": "STRONGEST",
+      "style": "pop_word",
+      "position": "middle",
+      "reason": "Top keyword (score 2.0) \u2014 karaoke-style emphasis timed to speech.",
+      "editable": true,
+      "x": 0.5,
+      "y": 0.42
+    },
+    {
+      "type": "subscribe",
+      "start": 27.7,
+      "end": 35.7,
+      "text": "Subscribe!",
+      "style": "pop_word",
+      "position": "middle",
+      "reason": "Subscribe animation in the final 8s \u2014 end-card CTA.",
+      "editable": true,
+      "x": 0.5,
+      "y": 0.55
+    },
+    {
+      "type": "kinetic_headline",
+      "start": 33.58,
+      "end": 33.8,
+      "text": "MINUTE",
+      "style": "pop_word",
+      "position": "middle",
+      "reason": "Top keyword (score 2.0) \u2014 karaoke-style emphasis timed to speech.",
+      "editable": true,
+      "x": 0.5,
+      "y": 0.42
+    },
+    {
+      "type": "punch_in",
+      "start": 33.58,
+      "end": 34.18,
+      "text": "zoom 115%",
+      "style": "zoom_115",
+      "position": "full",
+      "reason": "Punch-in 115% on emphasis word \u2014 draws the eye to the key point.",
+      "editable": false,
+      "x": 0.5,
+      "y": 0.5
+    }
+  ],
+  "captions": {
+    "style": "hormozi",
+    "position": "bottom",
+    "enabled": true,
+    "words": [
+      {
+        "word": "I",
+        "start": 8.37,
+        "end": 8.47,
+        "emphasis": false
+      },
+      {
+        "word": "record",
+        "start": 8.47,
+        "end": 8.71,
+        "emphasis": false
+      },
+      {
+        "word": "my",
+        "start": 8.71,
+        "end": 8.91,
+        "emphasis": false
+      },
+      {
+        "word": "talking",
+        "start": 8.91,
+        "end": 9.21,
+        "emphasis": false
+      },
+      {
+        "word": "head",
+        "start": 9.21,
+        "end": 9.51,
+        "emphasis": false
+      },
+      {
+        "word": "video",
+        "start": 9.51,
+        "end": 9.77,
+        "emphasis": false
+      },
+      {
+        "word": "in",
+        "start": 9.77,
+        "end": 9.97,
+        "emphasis": false
+      },
+      {
+        "word": "one",
+        "start": 9.97,
+        "end": 10.15,
+        "emphasis": false
+      },
+      {
+        "word": "take.",
+        "start": 10.15,
+        "end": 10.49,
+        "emphasis": false
+      },
+      {
+        "word": "I",
+        "start": 11.01,
+        "end": 11.03,
+        "emphasis": false
+      },
+      {
+        "word": "do",
+        "start": 11.03,
+        "end": 11.17,
+        "emphasis": false
+      },
+      {
+        "word": "not",
+        "start": 11.17,
+        "end": 11.43,
+        "emphasis": false
+      },
+      {
+        "word": "worry",
+        "start": 11.43,
+        "end": 11.63,
+        "emphasis": false
+      },
+      {
+        "word": "about",
+        "start": 11.63,
+        "end": 11.85,
+        "emphasis": false
+      },
+      {
+        "word": "mistakes,",
+        "start": 11.85,
+        "end": 12.27,
+        "emphasis": false
+      },
+      {
+        "word": "every",
+        "start": 18.55,
+        "end": 18.83,
+        "emphasis": true
+      },
+      {
+        "word": "filler",
+        "start": 18.83,
+        "end": 19.11,
+        "emphasis": false
+      },
+      {
+        "word": "word,",
+        "start": 19.11,
+        "end": 19.37,
+        "emphasis": false
+      },
+      {
+        "word": "and",
+        "start": 19.45,
+        "end": 19.59,
+        "emphasis": false
+      },
+      {
+        "word": "every",
+        "start": 19.59,
+        "end": 19.95,
+        "emphasis": true
+      },
+      {
+        "word": "boring",
+        "start": 19.95,
+        "end": 20.21,
+        "emphasis": false
+      },
+      {
+        "word": "moment.",
+        "start": 20.21,
+        "end": 20.75,
+        "emphasis": false
+      },
+      {
+        "word": "It",
+        "start": 21.21,
+        "end": 21.27,
+        "emphasis": false
+      },
+      {
+        "word": "keeps",
+        "start": 21.27,
+        "end": 21.45,
+        "emphasis": true
+      },
+      {
+        "word": "only",
+        "start": 21.45,
+        "end": 21.69,
+        "emphasis": false
+      },
+      {
+        "word": "the",
+        "start": 21.69,
+        "end": 21.93,
+        "emphasis": false
+      },
+      {
+        "word": "strongest",
+        "start": 21.93,
+        "end": 22.21,
+        "emphasis": true
+      },
+      {
+        "word": "parts.",
+        "start": 22.21,
+        "end": 22.97,
+        "emphasis": false
+      },
+      {
+        "word": "Sorry,",
+        "start": 23.23,
+        "end": 23.47,
+        "emphasis": false
+      },
+      {
+        "word": "it",
+        "start": 23.83,
+        "end": 23.99,
+        "emphasis": false
+      },
+      {
+        "word": "keeps",
+        "start": 23.99,
+        "end": 24.15,
+        "emphasis": true
+      },
+      {
+        "word": "only",
+        "start": 24.15,
+        "end": 24.37,
+        "emphasis": false
+      },
+      {
+        "word": "the",
+        "start": 24.37,
+        "end": 24.57,
+        "emphasis": false
+      },
+      {
+        "word": "strongest",
+        "start": 24.57,
+        "end": 24.91,
+        "emphasis": true
+      },
+      {
+        "word": "a",
+        "start": 29.48,
+        "end": 29.54,
+        "emphasis": false
+      },
+      {
+        "word": "lower",
+        "start": 29.54,
+        "end": 29.74,
+        "emphasis": false
+      },
+      {
+        "word": "third,",
+        "start": 29.74,
+        "end": 30.14,
+        "emphasis": false
+      },
+      {
+        "word": "and",
+        "start": 30.34,
+        "end": 30.44,
+        "emphasis": false
+      },
+      {
+        "word": "background",
+        "start": 30.44,
+        "end": 30.72,
+        "emphasis": false
+      }
+    ]
+  },
+  "broll": [
+    {
+      "start": 8.11,
+      "end": 12.79,
+      "mode": "overlay",
+      "keyword": "",
+      "reason": "High energy (88) / keyword-dense \u2014 B-roll overlay under the talking head. No stock match \u2014 AI B-roll prompt suggested instead of irrelevant footage.",
+      "source": "prompt_suggestion",
+      "file": null,
+      "prompt_suggestion": "Cinematic B-roll: abstract motion background, 16:9, shallow depth of field, professional color grade, no text, 5 seconds"
+    },
+    {
+      "start": 18.43,
+      "end": 25.343,
+      "mode": "overlay",
+      "keyword": "every",
+      "reason": "High energy (60) / keyword-dense \u2014 B-roll overlay under the talking head. No stock match \u2014 AI B-roll prompt suggested instead of irrelevant footage.",
+      "source": "prompt_suggestion",
+      "file": null,
+      "prompt_suggestion": "Cinematic B-roll: every, 16:9, shallow depth of field, professional color grade, no text, 7 seconds"
+    },
+    {
+      "start": 29.16,
+      "end": 31.1,
+      "mode": "overlay",
+      "keyword": "",
+      "reason": "High energy (78) / keyword-dense \u2014 B-roll overlay under the talking head. No stock match \u2014 AI B-roll prompt suggested instead of irrelevant footage.",
+      "source": "prompt_suggestion",
+      "file": null,
+      "prompt_suggestion": "Cinematic B-roll: abstract motion background, 16:9, shallow depth of field, professional color grade, no text, 2 seconds"
+    }
+  ],
+  "music": {
+    "track": "chill_vlog_01",
+    "enabled": true,
+    "ducking": true,
+    "reason": "Track 'chill_vlog_01' matches 'calm' mood for natural pacing; auto-ducked under speech."
+  },
+  "audio": {
+    "target_lufs": -14,
+    "denoise": true,
+    "reason": "Normalize to -14 LUFS (YouTube/social standard); afftdn denoise for consistent voice."
+  },
+  "intro_outro": {
+    "intro": {
+      "enabled": false,
+      "style": "brand_reveal_2s",
+      "reason": "Optional 2s branded intro."
+    },
+    "outro": {
+      "enabled": true,
+      "style": "end_card_subscribe",
+      "reason": "End card with subscribe CTA."
+    }
+  },
+  "brand_kit": {
+    "primary_color": "#7C3AED",
+    "font": "Inter",
+    "logo_path": null
+  },
+  "style": {
+    "template_id": "talking_head",
+    "kinetic_style": "pop_word",
+    "caption_style": "hormozi",
+    "caption_position": "bottom",
+    "palette": {
+      "primary": "#7C3AED"
+    },
+    "pacing": "natural",
+    "emoji_on": true,
+    "captions_on": true,
+    "broll_dir": "",
+    "music_track": null,
+    "music_enabled": true,
+    "intro_enabled": false,
+    "outro_enabled": true
+  },
+  "shorts": [],
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "So You Want To Edit"
+    },
+    {
+      "start": 8.93,
+      "title": "Head Video In One Take"
+    },
+    {
+      "start": 17.85,
+      "title": "Silence, Every Filler Word, And"
+    },
+    {
+      "start": 26.78,
+      "title": "Finally, It Adds Kinetic Captions"
+    }
+  ],
+  "reorder_suggestions": [],
+  "notes": [
+    "Removed 22.2s of 35.7s (3 kept spans, all boundaries snapped to word edges).",
+    "No shorts extracted: no 15s+ window with >=60% kept speech and above-average energy found.",
+    "Chronological order kept; reorder only on user approval.",
+    "demo seed: generated by the real analysis+planner pipeline"
+  ]
+}
