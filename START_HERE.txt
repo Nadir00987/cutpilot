@@ -1,0 +1,68 @@
+========================================
+CutPilot AI — apne PC par chalane ka tareeqa
+========================================
+DO TAREEQAY HAIN — jo aasan lage chun lo:
+
+  TAREEQAH A: Docker se (recommended, sab kuch khud ho jata hai)
+  TAREEQAH B: Bina Docker ke (Python + Node direct install)
+
+========================================
+TAREEQAH A — DOCKER (aasan)
+========================================
+1. Docker Desktop install karo:
+   https://www.docker.com/products/docker-desktop/
+   WSL2 update maange to kar dena. Docker khula rakho.
+
+2. Is zip ko extract karo, misal C:\cutpilot-ai
+   (.env pehle se tayyar hai.)
+
+3. Us folder mein terminal kholo (right-click > Open in Terminal):
+     docker compose up --build -d
+   Pehli dafa 10-20 min lagega. Agli dafa sirf:
+     docker compose up -d
+
+4. Demo account banao (sirf pehli dafa):
+     docker compose exec api python seed.py
+
+5. Browser mein: http://localhost:3000
+   Login: demo@cutpilot.ai / DemoPass123!
+
+Band karne ke liye:  docker compose down
+
+========================================
+TAREEQAH B — BINA DOCKER (manual)
+========================================
+1. Ye 3 cheezain install karo (winget se, terminal mein):
+     winget install Python.Python.3.12
+     winget install OpenJS.NodeJS.LTS
+     winget install Gyan.FFmpeg
+   Phir terminal BAND karke dobara kholo.
+
+2. Is zip ko extract karo, misal C:\cutpilot-ai
+
+3. SETUP_WINDOWS.bat par double-click karo.
+   Python packages download hongi (torch/faster-whisper ~2-4 GB,
+   10-30 min lag sakte hain — ek dafa hi hota hai).
+
+4. Roz chalane ke liye START_WINDOWS.bat par double-click karo.
+   Do windows khulengi (API :8000 aur Web :3000),
+   phir browser mein http://localhost:3000 khul jayega.
+   Login: demo@cutpilot.ai / DemoPass123!
+
+   Band karne ke liye dono windows mein Ctrl+C dabao.
+
+========================================
+AAM NOTES (dono tareeqon ke liye)
+========================================
+- "Demo project — sample edit" ready milega — editor, export,
+  templates, brand kit sab try karo.
+- Apni video dashboard se upload karo (drag & drop).
+- Pehli transcription par Whisper model (~1 GB) download hoga,
+  is liye pehla analysis slow hoga. Us ke baad fast.
+- 1 credit = 1 minute video processing. Demo mein 50 credits.
+- Stripe test-mode hai — asal payment nahi lagegi.
+- YouTube publish button abhi stub hai.
+- Masla ho to batana — error ka screenshot bhej dena.
+
+Port 3000/8000 pehle se use mein hon to batana, badal denge.
+========================================

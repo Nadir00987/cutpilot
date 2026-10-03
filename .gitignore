@@ -1,0 +1,50 @@
+# CutPilot AI .gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.log
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+
+# Env & secrets — NEVER commit real keys
+.env
+.env.*
+!.env.example
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Storage (user media, renders, models) — local dev artifacts
+storage/uploads/
+storage/renders/
+storage/thumbnails/
+storage/projects/
+storage/assets/broll/
+storage/assets/music/*.mp3
+storage/assets/music/*.wav
+!storage/assets/music/.gitkeep
+cutpilot.db
+
+# ML models (downloaded at runtime)
+/root/.cache/
+~/.cache/huggingface/
+/home/*/.cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Docker volumes
+pgdata/
+redisdata/
